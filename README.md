@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Helmi Aziz and I'm a fullstack Web Developer / software developer, from Malaysia</h2>
-
+<h1 align="left">Hi 👋! I'm Helmi Aziz</h1>
+<h2 align="left">A passionate fullstack web developer / software developer from Malaysia</h2>
 ###
 
 <div align="center">
