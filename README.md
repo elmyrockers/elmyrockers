@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helmi Aziz</h1>
-<h3 align="center">A passionate fullstack web developer / software developer from Malaysia</h3>
+<p align="center">A passionate fullstack web developer / software developer from Malaysia</p>
 <div align="center"><img align="center" src="https://elmyrockers.github.io/images/fullstack_600.jpg"></div>
 
 <!-- <h3 align="left">Connect with me:</h3>
