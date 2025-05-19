@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Helmi Aziz</h1>
 <!-- <p align="center">A passionate fullstack web developer / software developer from Malaysia</p> -->
-<a href="#" style="text-align:center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=15&pause=1000&color=000000&center=true&width=610&lines=A+passionate+fullstack+web+developer+from+Malaysia;A+passionate+fullstack+software+developer+from+Malaysia"/></a>
+<a href="#" style="text-align:center;display:block"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=15&pause=1000&color=000000&center=true&width=610&lines=A+passionate+fullstack+web+developer+from+Malaysia;A+passionate+fullstack+software+developer+from+Malaysia"/></a>
 <div align="center"><img align="center" src="https://elmyrockers.github.io/images/fullstack_600.jpg"></div>
 
 <!-- <h3 align="left">Connect with me:</h3>
