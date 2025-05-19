@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Helmi Aziz</h1>
 <!-- <p align="center">A passionate fullstack web developer / software developer from Malaysia</p> -->
 
+<center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&pause=1000&color=000000&center=true&vCenter=true&width=615&lines=A+passionate+fullstack+web+developer+from+Malaysia;A+passionate+fullstack+software+developer+from+Malaysia)](https://git.io/typing-svg)
+</center>
 
 <div align="center"><img align="center" src="https://elmyrockers.github.io/images/fullstack_600.jpg"></div>
 
