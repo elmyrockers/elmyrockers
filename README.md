@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Helmi Aziz</h1>
+<!-- <h1 align="center">Hi 👋, I'm Helmi Aziz</h1> -->
 <!-- <p align="center">A passionate fullstack web developer / software developer from Malaysia</p> -->
 
 
