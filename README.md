@@ -13,6 +13,6 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmyrockers&langs_count=20&show_icons=true&locale=en&layout=compact" alt="Elmyrockers's Skills" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmyrockers&langs_count=14&show_icons=true&locale=en&layout=compact" alt="Elmyrockers's Skills" /></p>
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&hide=&layout=compact&theme=tokyonight" /></p>-->
 
