@@ -12,7 +12,6 @@
 </div>
 
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmyrockers&theme=github_dark" /></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmyrockers" /></div>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmyrockers&langs_count=6&show_icons=true&locale=en&layout=compact" alt="Elmyrockers's Skills" /></p> -->
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&hide=&layout=compact&theme=tokyonight" /></p>-->
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmyrockers
