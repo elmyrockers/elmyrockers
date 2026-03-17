@@ -1,7 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Helmi Aziz</h1> -->
-<!-- <p align="center">A passionate fullstack web developer / software developer from Malaysia</p> -->
-
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&pause=1000&color=000000&center=true&vCenter=true&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Helmi+Aziz;Code+Is+My+Passion"/>
   <br>
@@ -18,4 +14,6 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmyrockers&langs_count=6&show_icons=true&locale=en&layout=compact" alt="Elmyrockers's Skills" /></p> -->
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&hide=&layout=compact&theme=tokyonight" /></p>-->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&include_all_commits=true&count_private=true&layout=compact&langs_count=10" /></div>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&include_all_commits=true&count_private=true&layout=compact&langs_count=10" /></div> -->
+
+<div align="center"><img src="https://raw.githubusercontent.com/elmyrockers/go-readme-stats/main/elmyrockers_stat.svg" /></div>
