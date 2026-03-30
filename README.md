@@ -4,7 +4,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&pause=1000&color=000000&center=true&vCenter=true&width=635&lines=A+Passionate+Fullstack+Web+Developer+From+Malaysia;A+Passionate+Fullstack+Software+Developer+From+Malaysia;With+Over+10%2B+Years+of+Experience"/>
 
-  <img src="https://user-badge.committers.top/malaysia/elmyrockers.svg">
+  <img align="center" src="https://user-badge.committers.top/malaysia/elmyrockers.svg">
   
   <img align="center" src="https://elmyrockers.github.io/images/fullstack_600.jpg">
 </div>
