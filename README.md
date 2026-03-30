@@ -18,4 +18,4 @@
 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&include_all_commits=true&count_private=true&layout=compact&langs_count=10" /></div> -->
 
-<div align="center"><img src="/go-readme-stats/elmyrockers_stat.svg" /></div>
+<div align="center"><img src="./go-readme-stats/main/elmyrockers_stat.svg" /></div>
