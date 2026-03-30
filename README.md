@@ -5,7 +5,7 @@
   <br>
   <a href="https://committers.top/malaysia#elmyrockers"><img align="center" src="https://user-badge.committers.top/malaysia/elmyrockers.svg"></a>
   <br>
-  <sub>&nbsp;</sub>
+  <sub>&nbsp;</sub><br>
   <img align="center" src="https://elmyrockers.github.io/images/fullstack_600.jpg">
 </div>
 
