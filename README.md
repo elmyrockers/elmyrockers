@@ -11,16 +11,6 @@
   </a>
 </div>
 
-<!-- <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmyrockers" /></div> -->
-
-<!-- <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elmyrockers" /></div> -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmyrockers&langs_count=6&show_icons=true&locale=en&layout=compact" alt="Elmyrockers's Skills" /></p> -->
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&hide=&layout=compact&theme=tokyonight" /></p>-->
-
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmyrockers&include_all_commits=true&count_private=true&layout=compact&langs_count=10" /></div> -->
-
-<!-- <div align="center"><img src="https://raw.githubusercontent.com/elmyrockers/go-readme-stats/main/elmyrockers_stat.svg" /></div> -->
-
 <div align="center">
   <a href="https://github.com/elmyrockers/go-readme-stats/blob/main/elmyrockers_stat.svg">
       <img src="https://github.com/elmyrockers/go-readme-stats/raw/main/elmyrockers_stat.svg" />
