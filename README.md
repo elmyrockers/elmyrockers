@@ -15,8 +15,6 @@
   <a href="https://github.com/elmyrockers/go-readme-stats/blob/main/elmyrockers_stat.svg">
       <img src="https://github.com/elmyrockers/go-readme-stats/raw/main/elmyrockers_stat.svg" />
   </a>
-  
-  <br>
   <!-- <span>⚫ ⚫ ⚫</span> -->
   <!-- <p><sub> </sub></p> -->
   <img src="https://img.shields.io/badge/-%20-white?style=flat-square" width="100%" height="2">
