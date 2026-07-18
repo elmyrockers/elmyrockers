@@ -17,7 +17,7 @@
   </a>
   <!-- <p><sub> </sub></p> -->
   <br>
-  <span>⚫ ⚫ ⚫</span>
+  <span style="color:#888787;">⚫ ⚫ ⚫</span>
   <br>
   <br>
   <a href="https://elmyrockers.github.io">
