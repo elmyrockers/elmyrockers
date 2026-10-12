@@ -6,7 +6,7 @@
   <a href="https://committers.top/malaysia#elmyrockers"><img align="center" src="https://user-badge.committers.top/malaysia/elmyrockers.svg"></a>
   <p><sub> </sub></p>
   
-  <a href="https://geocities.ws/elmyrockers">
+  <a href="https://elmyrockers.github.io/me">
     <img align="center" src="https://elmyrockers.github.io/images/fullstack_600.jpg">
   </a>
 </div>
